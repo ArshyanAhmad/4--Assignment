@@ -1,0 +1,42 @@
+1. List all the tools you might use as a web developer.
+
+Ans: As a web developer, there are many different tools you might use to create, design, and maintain websites and web applications.
+     Some of the most common tools include:
+
+1.   Text editors: Text editors like Visual Studio Code, Sublime Text, Atom, and Notepad++ are used for writing and editing code.
+
+2.   Integrated Development Environments (IDEs): IDEs like Visual Studio, Eclipse, and NetBeans provide a more 
+     advanced development environment with features like debugging, version control, and code completion.
+
+3.   Web browsers: Web browsers like Google Chrome, Mozilla Firefox, and Microsoft Edge are used for testing 
+     and debugging websites and web applications.
+
+4.   Developer tools: Many web browsers include built-in developer tools for debugging and inspecting web pages, 
+     such as the Chrome DevTools and Firefox Developer Tools.
+
+5.   Version control systems: Version control systems like Git, SVN, and Mercurial are used for managing 
+     and tracking changes to code.
+
+6.   CSS preprocessors: CSS preprocessors like SASS, LESS, and Stylus are used for writing and managing CSS code.
+
+7.   Task runners: Task runners like Grunt and Gulp are used for automating repetitive tasks like minifying 
+     code, compiling preprocessors, and more.
+
+8.   Package managers: Package managers like NPM and Yarn are used for installing and managing dependencies in web projects.
+
+9.   Frameworks and libraries: Frameworks and libraries like Angular, React, and Vue.js, Bootstrap, Foundation are
+     used for building web applications and providing pre-built functionality.
+
+10.  Wireframing and prototyping tools: Tools like Adobe XD, Figma, and Sketch are used for creating wireframes
+     and prototypes of web pages and applications.
+
+     These are just a few examples of the many tools that are available to web developers. The specific tools you 
+     use will depend on your project requirements and personal preferences.
+
+
+2. What are some of the features of pw skills Online Lab? Explain How they are usefull.
+
+Ans: Pw Skill Online Lab is usefull for those people have not highperformence laptop
+     they use skill Online lap and also give the set of language combined in a text 
+     editor. 
+
